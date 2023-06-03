@@ -5,12 +5,12 @@ Sugestões do que deve conter o notebook do Trabalho Prático:
 - [x] Quais são os datasets originais
     - [x] Volume de dados em tuplas e espaço de armazenamento
 - [x] Análise exploratória dos dados
-    - [ ] correlações
-    - [ ] análise de atributos
-    - [ ] histogramas
+    - [x] correlações
+    - [x] análise de atributos
+    - [x] histogramas
 - [x] Qual o tipo de problema de machine learning a resolver:
     - [x] Classificação, Regressão, Clusterização, Aprendizado por reforço (Reinforcement Learning), Recuperação de Informação, Recomendação, etc.
-- [ ] Quais features (input) e label (output) serão usados
+- [x] Quais features (input) e label (output) serão usados
 - [ ] Quais métricas de avaliação de resultado serão usadas
 - [ ] Aplicação das técnicas de machine learning usando diferentes algoritmos e hiper-parâmetros (usar pelo menos 3 técnicas vistas na disciplina e uma extra).
 - [ ] Exibição dos resultados preferencialmente de forma gráfica e/ou tabular
